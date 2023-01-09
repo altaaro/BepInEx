@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 23 plugins to load
+[Info   :   BepInEx] 24 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.12.0]
 [Info   :   BepInEx] Loading [SNEAKer 1.0.3.0]
 [Info   :   SNEAKer] SNEAKer Loaded..
@@ -44,18 +44,20 @@
 [Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
 [Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
 [Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.2]
+[Info   :   BepInEx] Loading [RuneMagic 1.1.16]
+[Info   : Unity Log] 01/09/2023 22:31:41: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/09/2023 22:31:41: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/09/2023 22:31:41: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/09/2023 22:31:41: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Better Archery 1.8.1]
 [Info   :   BepInEx] Loading [OdinShip 0.2.2]
-[Info   : Unity Log] 01/08/2023 12:58:31: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 01/08/2023 12:58:31: Loaded localization CSV:localization_extra language:English
-
-[Info   : Unity Log] 01/08/2023 12:58:31: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 01/08/2023 12:58:31: Loaded localization CSV:localization_extra language:English
-
 [Info   :   BepInEx] Loading [Better Trader Remake 2.2.7]
-[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 6545
+[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 7329
 [Info   :   BepInEx] Loading [BetterUI 2.4.0]
 [Info   :   BepInEx] Loading [HoneyPlus 3.2.0]
 [Info   :HoneyPlus.HoneyPlus] Loaded asset bundle: honeyplusassets (UnityEngine.AssetBundle)
@@ -274,57 +276,382 @@
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.10]
 [Info   :   BepInEx] Loading [Epic Loot 0.9.3]
+[Warning: Epic Loot] ConfigFile: abilities.json
+[Warning: Epic Loot] ConfigFile: adventuredata.json
+[Warning: Epic Loot] ConfigFile: enchantcosts.json
+[Warning: Epic Loot] ConfigFile: iteminfo.json
+[Warning: Epic Loot] ConfigFile: itemnames.json
+[Warning: Epic Loot] ConfigFile: legendaries.json
+[Warning: Epic Loot] ConfigFile: loottables.json
+[Warning: Epic Loot] ConfigFile: magiceffects.json
+[Warning: Epic Loot] ConfigFile: recipes.json
+[Warning: Epic Loot] ConfigFile: translations.json
+[Info   : Epic Loot] Added ItemSet: EnchantingMats
+[Info   : Epic Loot] Added ItemSet: Tier0Mats
+[Info   : Epic Loot] Added ItemSet: Tier1Mats
+[Info   : Epic Loot] Added ItemSet: Tier2Mats
+[Info   : Epic Loot] Added ItemSet: Tier3Mats
+[Info   : Epic Loot] Added ItemSet: EnchantingRunestones
+[Info   : Epic Loot] Added ItemSet: Tier0Runestone
+[Info   : Epic Loot] Added ItemSet: Tier1Runestone
+[Info   : Epic Loot] Added ItemSet: Tier2Runestone
+[Info   : Epic Loot] Added ItemSet: Tier3Runestone
+[Info   : Epic Loot] Added ItemSet: ModUtility
+[Info   : Epic Loot] Added ItemSet: Tier0Weapons
+[Info   : Epic Loot] Added ItemSet: Tier0Tools
+[Info   : Epic Loot] Added ItemSet: Tier0Armor
+[Info   : Epic Loot] Added ItemSet: Tier0Shields
+[Info   : Epic Loot] Added ItemSet: Tier0Everything
+[Info   : Epic Loot] Added ItemSet: Tier1Weapons
+[Info   : Epic Loot] Added ItemSet: Tier1Armor
+[Info   : Epic Loot] Added ItemSet: Tier1Tools
+[Info   : Epic Loot] Added ItemSet: Tier1Shields
+[Info   : Epic Loot] Added ItemSet: Tier1Everything
+[Info   : Epic Loot] Added ItemSet: TrollArmor
+[Info   : Epic Loot] Added ItemSet: Tier2Weapons
+[Info   : Epic Loot] Added ItemSet: Tier2Armor
+[Info   : Epic Loot] Added ItemSet: Tier2Shields
+[Info   : Epic Loot] Added ItemSet: Tier2Tools
+[Info   : Epic Loot] Added ItemSet: Tier2Everything
+[Info   : Epic Loot] Added ItemSet: Tier3Weapons
+[Info   : Epic Loot] Added ItemSet: Tier3Armor
+[Info   : Epic Loot] Added ItemSet: Tier3Shields
+[Info   : Epic Loot] Added ItemSet: Tier3Tools
+[Info   : Epic Loot] Added ItemSet: Tier3Everything
+[Info   : Epic Loot] Added ItemSet: Tier4Weapons
+[Info   : Epic Loot] Added ItemSet: Tier4Armor
+[Info   : Epic Loot] Added ItemSet: Tier4Shields
+[Info   : Epic Loot] Added ItemSet: Tier4Everything
+[Info   : Epic Loot] Added ItemSet: Tier5Weapons
+[Info   : Epic Loot] Added ItemSet: Tier5Armor
+[Info   : Epic Loot] Added ItemSet: Tier5Shields
+[Info   : Epic Loot] Added ItemSet: Tier5Everything
+[Info   : Epic Loot] Added ItemSet: Tier6Weapons
+[Info   : Epic Loot] Added ItemSet: Tier6Armor
+[Info   : Epic Loot] Added ItemSet: Tier6Shields
+[Info   : Epic Loot] Added ItemSet: Tier6Tools
+[Info   : Epic Loot] Added ItemSet: Tier6Everything
+[Info   : Epic Loot] Added LootTable: Tier0Mob
+[Info   : Epic Loot] Added loottable for Tier0Mob
+[Info   : Epic Loot] Added LootTable: Tier1Mob
+[Info   : Epic Loot] Added loottable for Tier1Mob
+[Info   : Epic Loot] Added LootTable: Tier2Mob
+[Info   : Epic Loot] Added loottable for Tier2Mob
+[Info   : Epic Loot] Added LootTable: Tier3Mob
+[Info   : Epic Loot] Added loottable for Tier3Mob
+[Info   : Epic Loot] Added LootTable: Tier4Mob
+[Info   : Epic Loot] Added loottable for Tier4Mob
+[Info   : Epic Loot] Added LootTable: Tier5Mob
+[Info   : Epic Loot] Added loottable for Tier5Mob
+[Info   : Epic Loot] Added LootTable: Tier6Mob
+[Info   : Epic Loot] Added loottable for Tier6Mob
+[Info   : Epic Loot] Added LootTable: Tier7Mob
+[Info   : Epic Loot] Added loottable for Tier7Mob
+[Info   : Epic Loot] Added LootTable: Eikthyr
+[Info   : Epic Loot] Added loottable for Eikthyr
+[Info   : Epic Loot] Added LootTable: gd_king
+[Info   : Epic Loot] Added loottable for gd_king
+[Info   : Epic Loot] Added LootTable: Bonemass
+[Info   : Epic Loot] Added loottable for Bonemass
+[Info   : Epic Loot] Added LootTable: Dragon
+[Info   : Epic Loot] Added loottable for Dragon
+[Info   : Epic Loot] Added LootTable: GoblinKing
+[Info   : Epic Loot] Added loottable for GoblinKing
+[Info   : Epic Loot] Added LootTable: SeekerQueen
+[Info   : Epic Loot] Added loottable for SeekerQueen
+[Info   : Epic Loot] Added LootTable: TreasureChest_meadows
+[Info   : Epic Loot] Added loottable for TreasureChest_meadows
+[Info   : Epic Loot] Added LootTable: TreasureChest_blackforest
+[Info   : Epic Loot] Added loottable for TreasureChest_blackforest
+[Info   : Epic Loot] Added LootTable: TreasureChest_forestcrypt
+[Info   : Epic Loot] Added loottable for TreasureChest_forestcrypt
+[Info   : Epic Loot] Added LootTable: TreasureChest_fCrypt
+[Info   : Epic Loot] Added loottable for TreasureChest_fCrypt
+[Info   : Epic Loot] Added LootTable: TreasureChest_trollcave
+[Info   : Epic Loot] Added loottable for TreasureChest_trollcave
+[Info   : Epic Loot] Added LootTable: shipwreck_karve_chest
+[Info   : Epic Loot] Added loottable for shipwreck_karve_chest
+[Info   : Epic Loot] Added LootTable: TreasureChest_meadows_buried
+[Info   : Epic Loot] Added loottable for TreasureChest_meadows_buried
+[Info   : Epic Loot] Added LootTable: TreasureChest_sunkencrypt
+[Info   : Epic Loot] Added loottable for TreasureChest_sunkencrypt
+[Info   : Epic Loot] Added LootTable: TreasureChest_swamp
+[Info   : Epic Loot] Added loottable for TreasureChest_swamp
+[Info   : Epic Loot] Added LootTable: TreasureChest_mountains
+[Info   : Epic Loot] Added loottable for TreasureChest_mountains
+[Info   : Epic Loot] Added LootTable: TreasureChest_mountaincave
+[Info   : Epic Loot] Added loottable for TreasureChest_mountaincave
+[Info   : Epic Loot] Added LootTable: TreasureChest_plains_stone
+[Info   : Epic Loot] Added loottable for TreasureChest_plains_stone
+[Info   : Epic Loot] Added LootTable: TreasureChest_heath
+[Info   : Epic Loot] Added loottable for TreasureChest_heath
+[Info   : Epic Loot] Added LootTable: TreasureChest_dvergrtown
+[Info   : Epic Loot] Added loottable for TreasureChest_dvergrtown
+[Info   : Epic Loot] Added LootTable: TreasureChest_dvergrtower
+[Info   : Epic Loot] Added loottable for TreasureChest_dvergrtower
+[Info   : Epic Loot] Added LootTable: TreasureChest_dvergr_loose_stone
+[Info   : Epic Loot] Added loottable for TreasureChest_dvergr_loose_stone
+[Info   : Epic Loot] Added LootTable: TreasureMapChest_Meadows
+[Info   : Epic Loot] Added loottable for TreasureMapChest_Meadows
+[Info   : Epic Loot] Added LootTable: TreasureMapChest_BlackForest
+[Info   : Epic Loot] Added loottable for TreasureMapChest_BlackForest
+[Info   : Epic Loot] Added LootTable: TreasureMapChest_Swamp
+[Info   : Epic Loot] Added loottable for TreasureMapChest_Swamp
+[Info   : Epic Loot] Added LootTable: TreasureMapChest_Mountain
+[Info   : Epic Loot] Added loottable for TreasureMapChest_Mountain
+[Info   : Epic Loot] Added LootTable: TreasureMapChest_Plains
+[Info   : Epic Loot] Added loottable for TreasureMapChest_Plains
+[Info   : Epic Loot] Added LootTable: TreasureMapChest_Mistlands
+[Info   : Epic Loot] Added loottable for TreasureMapChest_Mistlands
+[Info   : Epic Loot] Added LootTable: Greyling
+[Info   : Epic Loot] Added loottable for Greyling using Tier0Mob as reference
+[Info   : Epic Loot] Added LootTable: Deer
+[Info   : Epic Loot] Added loottable for Deer using Tier0Mob as reference
+[Info   : Epic Loot] Added LootTable: Boar
+[Info   : Epic Loot] Added loottable for Boar using Tier0Mob as reference
+[Info   : Epic Loot] Added LootTable: Neck
+[Info   : Epic Loot] Added loottable for Neck using Tier0Mob as reference
+[Info   : Epic Loot] Added LootTable: Greydwarf
+[Info   : Epic Loot] Added loottable for Greydwarf using Tier1Mob as reference
+[Info   : Epic Loot] Added LootTable: Skeleton
+[Info   : Epic Loot] Added loottable for Skeleton using Tier1Mob as reference
+[Info   : Epic Loot] Added LootTable: Greydwarf_Elite
+[Info   : Epic Loot] Added loottable for Greydwarf_Elite using Tier2Mob as reference
+[Info   : Epic Loot] Added LootTable: Greydwarf_Shaman
+[Info   : Epic Loot] Added loottable for Greydwarf_Shaman using Tier2Mob as reference
+[Info   : Epic Loot] Added LootTable: Skeleton_Poison
+[Info   : Epic Loot] Added loottable for Skeleton_Poison using Tier2Mob as reference
+[Info   : Epic Loot] Added LootTable: Troll
+[Info   : Epic Loot] Added loottable for Troll using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Ghost
+[Info   : Epic Loot] Added loottable for Ghost using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Blob
+[Info   : Epic Loot] Added loottable for Blob using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Draugr
+[Info   : Epic Loot] Added loottable for Draugr using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Draugr_Ranged
+[Info   : Epic Loot] Added loottable for Draugr_Ranged using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Leech
+[Info   : Epic Loot] Added loottable for Leech using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Surtling
+[Info   : Epic Loot] Added loottable for Surtling using Tier3Mob as reference
+[Info   : Epic Loot] Added LootTable: Draugr_Elite
+[Info   : Epic Loot] Added loottable for Draugr_Elite using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: Abomination
+[Info   : Epic Loot] Added loottable for Abomination using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: Ulv
+[Info   : Epic Loot] Added loottable for Ulv using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: Fenring_Cultist
+[Info   : Epic Loot] Added loottable for Fenring_Cultist using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: BlobElite
+[Info   : Epic Loot] Added loottable for BlobElite using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: Wraith
+[Info   : Epic Loot] Added loottable for Wraith using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: Wolf
+[Info   : Epic Loot] Added loottable for Wolf using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: Hatchling
+[Info   : Epic Loot] Added loottable for Hatchling using Tier4Mob as reference
+[Info   : Epic Loot] Added LootTable: StoneGolem
+[Info   : Epic Loot] Added loottable for StoneGolem using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: Fenring
+[Info   : Epic Loot] Added loottable for Fenring using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: Serpent
+[Info   : Epic Loot] Added loottable for Serpent using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: Deathsquito
+[Info   : Epic Loot] Added loottable for Deathsquito using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: Lox
+[Info   : Epic Loot] Added loottable for Lox using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: Goblin
+[Info   : Epic Loot] Added loottable for Goblin using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: GoblinArcher
+[Info   : Epic Loot] Added loottable for GoblinArcher using Tier5Mob as reference
+[Info   : Epic Loot] Added LootTable: GoblinBrute
+[Info   : Epic Loot] Added loottable for GoblinBrute using Tier6Mob as reference
+[Info   : Epic Loot] Added LootTable: GoblinShaman
+[Info   : Epic Loot] Added loottable for GoblinShaman using Tier6Mob as reference
+[Info   : Epic Loot] Added LootTable: Seeker
+[Info   : Epic Loot] Added loottable for Seeker using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: SeekerBrute
+[Info   : Epic Loot] Added loottable for SeekerBrute using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: Dverger
+[Info   : Epic Loot] Added loottable for Dverger using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: DvergerMage
+[Info   : Epic Loot] Added loottable for DvergerMage using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: DvergerMageFire
+[Info   : Epic Loot] Added loottable for DvergerMageFire using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: DvergerMageIce
+[Info   : Epic Loot] Added loottable for DvergerMageIce using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: DvergerMageSupport
+[Info   : Epic Loot] Added loottable for DvergerMageSupport using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: Gjall
+[Info   : Epic Loot] Added loottable for Gjall using Tier7Mob as reference
+[Info   : Epic Loot] Added LootTable: Tick
+[Info   : Epic Loot] Added loottable for Tick using Tier7Mob as reference
+[Info   : Epic Loot] Added MagicItemEffect: DvergerCirclet
+[Info   : Epic Loot] Added MagicItemEffect: Megingjord
+[Info   : Epic Loot] Added MagicItemEffect: Wishbone
+[Info   : Epic Loot] Added MagicItemEffect: Andvaranaut
+[Info   : Epic Loot] Added MagicItemEffect: ModifyDamage
+[Info   : Epic Loot] Added MagicItemEffect: ModifyPhysicalDamage
+[Info   : Epic Loot] Added MagicItemEffect: ModifyElementalDamage
+[Info   : Epic Loot] Added MagicItemEffect: ModifyDurability
+[Info   : Epic Loot] Added MagicItemEffect: ReduceWeight
+[Info   : Epic Loot] Added MagicItemEffect: RemoveSpeedPenalty
+[Info   : Epic Loot] Added MagicItemEffect: ModifyBlockPower
+[Info   : Epic Loot] Added MagicItemEffect: ModifyParry
+[Info   : Epic Loot] Added MagicItemEffect: ModifyArmor
+[Info   : Epic Loot] Added MagicItemEffect: ModifyBackstab
+[Info   : Epic Loot] Added MagicItemEffect: IncreaseHealth
+[Info   : Epic Loot] Added MagicItemEffect: IncreaseStamina
+[Info   : Epic Loot] Added MagicItemEffect: IncreaseEitr
+[Info   : Epic Loot] Added MagicItemEffect: ModifyHealthRegen
+[Info   : Epic Loot] Added MagicItemEffect: AddHealthRegen
+[Info   : Epic Loot] Added MagicItemEffect: ModifyStaminaRegen
+[Info   : Epic Loot] Added MagicItemEffect: ModifyEitrRegen
+[Info   : Epic Loot] Added MagicItemEffect: AddBluntDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddSlashingDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddPiercingDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddFireDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddFrostDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddLightningDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddPoisonDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddSpiritDamage
+[Info   : Epic Loot] Added MagicItemEffect: AddFireResistance
+[Info   : Epic Loot] Added MagicItemEffect: AddFrostResistance
+[Info   : Epic Loot] Added MagicItemEffect: AddLightningResistance
+[Info   : Epic Loot] Added MagicItemEffect: AddPoisonResistance
+[Info   : Epic Loot] Added MagicItemEffect: AddSpiritResistance
+[Info   : Epic Loot] Added MagicItemEffect: AddFireResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddFrostResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddLightningResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddPoisonResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddSpiritResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddElementalResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddBluntResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddSlashingResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddPiercingResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddChoppingResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: AddPhysicalResistancePercentage
+[Info   : Epic Loot] Added MagicItemEffect: ModifyMovementSpeed
+[Info   : Epic Loot] Added MagicItemEffect: ModifySprintStaminaUse
+[Info   : Epic Loot] Added MagicItemEffect: ModifyJumpStaminaUse
+[Info   : Epic Loot] Added MagicItemEffect: ModifyAttackStaminaUse
+[Info   : Epic Loot] Added MagicItemEffect: ModifyBlockStaminaUse
+[Info   : Epic Loot] Added MagicItemEffect: Indestructible
+[Info   : Epic Loot] Added MagicItemEffect: Weightless
+[Info   : Epic Loot] Added MagicItemEffect: AddCarryWeight
+[Info   : Epic Loot] Added MagicItemEffect: LifeSteal
+[Info   : Epic Loot] Added MagicItemEffect: ModifyAttackSpeed
+[Info   : Epic Loot] Added MagicItemEffect: Throwable
+[Info   : Epic Loot] Added MagicItemEffect: Waterproof
+[Info   : Epic Loot] Added MagicItemEffect: Paralyze
+[Info   : Epic Loot] Added MagicItemEffect: DoubleJump
+[Info   : Epic Loot] Added MagicItemEffect: WaterWalking
+[Info   : Epic Loot] Added MagicItemEffect: ExplosiveArrows
+[Info   : Epic Loot] Added MagicItemEffect: QuickDraw
+[Info   : Epic Loot] Added MagicItemEffect: AddSwordsSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddKnivesSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddClubsSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddPolearmsSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddSpearsSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddBlockingSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddAxesSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddBowsSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddBloodMagicSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddElementalMagicSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddUnarmedSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddPickaxesSkill
+[Info   : Epic Loot] Added MagicItemEffect: AddMovementSkills
+[Info   : Epic Loot] Added MagicItemEffect: ModifyStaggerDuration
+[Info   : Epic Loot] Added MagicItemEffect: QuickLearner
+[Info   : Epic Loot] Added MagicItemEffect: FreeBuild
+[Info   : Epic Loot] Added MagicItemEffect: RecallWeapon
+[Info   : Epic Loot] Added MagicItemEffect: ReflectDamage
+[Info   : Epic Loot] Added MagicItemEffect: AvoidDamageTaken
+[Info   : Epic Loot] Added MagicItemEffect: StaggerOnDamageTaken
+[Info   : Epic Loot] Added MagicItemEffect: FeatherFall
+[Info   : Epic Loot] Added MagicItemEffect: ModifyDiscoveryRadius
+[Info   : Epic Loot] Added MagicItemEffect: Comfortable
+[Info   : Epic Loot] Added MagicItemEffect: ModifyMovementSpeedLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyHealthRegenLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyStaminaRegenLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyEitrRegenLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyArmorLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyDamageLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyBlockPowerLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyParryLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: ModifyAttackSpeedLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: AvoidDamageTakenLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: LifeStealLowHealth
+[Info   : Epic Loot] Added MagicItemEffect: Glowing
+[Info   : Epic Loot] Added MagicItemEffect: Executioner
+[Info   : Epic Loot] Added MagicItemEffect: Riches
+[Info   : Epic Loot] Added MagicItemEffect: Opportunist
+[Info   : Epic Loot] Added MagicItemEffect: Duelist
+[Info   : Epic Loot] Added MagicItemEffect: Immovable
+[Info   : Epic Loot] Added MagicItemEffect: ModifyStaggerDamage
+[Info   : Epic Loot] Added MagicItemEffect: Luck
+[Info   : Epic Loot] Added MagicItemEffect: ModifyParryWindow
+[Info   : Epic Loot] Added MagicItemEffect: Slow
+[Info   : Epic Loot] Added MagicItemEffect: Bulwark
+[Info   : Epic Loot] Added MagicItemEffect: Undying
+[Info   : Epic Loot] Added MagicItemEffect: FrostDamageAOE
+[Info   : Epic Loot] Added MagicItemEffect: Berserker
+[Info   : Epic Loot] Watching For Files
 [Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.1]
 [Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
 [Info   :   BepInEx] Loading [MassFarming 1.5]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 01/08/2023 12:58:36: Starting to load scene:start
+[Info   : Unity Log] 01/09/2023 22:31:48: Starting to load scene:start
 
-[Info   : Unity Log] 01/08/2023 12:58:36: Using environment steamid 892970
+[Info   : Unity Log] 01/09/2023 22:31:49: Using environment steamid 892970
 
-[Info   : Unity Log] 01/08/2023 12:58:36: Using steam APPID:892970
+[Info   : Unity Log] 01/09/2023 22:31:49: Using steam APPID:892970
 
-[Info   : Unity Log] 01/08/2023 12:58:36: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 01/09/2023 22:31:49: Authentication:k_ESteamNetworkingAvailability_Attempting
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 01/08/2023 12:58:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Steam initialized, persona:SupaHotPiweu
+[Info   : Unity Log] 01/09/2023 22:31:50: Steam initialized, persona:SupaHotPiweu
 
-[Info   : Unity Log] 01/08/2023 12:58:37: PlayFab custom ID set to "Steam_76561198002157142"
+[Info   : Unity Log] 01/09/2023 22:31:50: PlayFab custom ID set to "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Using default prefs
+[Info   : Unity Log] 01/09/2023 22:31:50: Using default prefs
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Valheim version:0.212.9@0.9.9.11
+[Info   : Unity Log] 01/09/2023 22:31:50: Valheim version:0.212.9@0.9.9.11
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Worldgenerator version setup:2
+[Info   : Unity Log] 01/09/2023 22:31:50: Worldgenerator version setup:2
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/08/2023 12:58:37: Render threading mode:MultiThreaded
+[Info   : Unity Log] 01/09/2023 22:31:50: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 01/08/2023 12:58:37: Checking for installed DLCs
+[Info   : Unity Log] 01/09/2023 22:31:50: Checking for installed DLCs
 
-[Info   : Unity Log] 01/08/2023 12:58:37: DLC:beta installed:False
+[Info   : Unity Log] 01/09/2023 22:31:50: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 01/08/2023 12:58:38: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/08/2023 12:58:38: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/09/2023 22:31:50: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] ObjectDB_Awake_Patch ran
 [Message:Boneappetit.BoneAppetit] Loaded Game VFX and SFX
 [Message:Boneappetit.BoneAppetit] Load Complete. Bone Appetit yall.
 [Info   :Jotunn.Managers.ItemManager] Adding 107 custom items to the ObjectDB
+[Info   : Unity Log] ObjectDB_CopyOtherDB_Patch ran
+[Info   : Unity Log] [RecipeHandler] Added recipe: Recipe_RuneFocus
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
@@ -372,239 +699,26 @@
 [Info   :Valharvest.Scripts.BoneAppetitBalance] SeagullEgg Loaded.
 [Info   :Valharvest.Main] Load Complete.
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 01/08/2023 12:58:39: Ticket is System.Byte[] of length 369
-
-[Info   : Unity Log] 01/08/2023 12:58:39: Session auth respons callback
-
-[Info   : Unity Log] 01/08/2023 12:58:39: Starting music menu
-
-[Info   : Unity Log] 01/08/2023 12:58:39: UI Group status changed Menu = True
-
-[Info   : Unity Log] 01/08/2023 12:58:40: PlayFab logged in as "Steam_76561198002157142"
-
-[Info   : Unity Log] 01/08/2023 12:58:40: PlayFab local entity ID is B66CB53BBA79AE23
-
-[Info   : Unity Log] 01/08/2023 12:58:41: UI Group status changed Menu = True
-
-[Info   : Unity Log] 01/08/2023 13:05:40: Update PlayFab entity token
-
-[Info   : Unity Log] 01/08/2023 13:11:08: FOund selected Start game
-
-[Info   : Unity Log] 01/08/2023 13:11:08: show character selection
-
-[Info   : Unity Log] 01/08/2023 13:11:08: OnCharacterStart
-
-[Info   : Unity Log] 01/08/2023 13:11:12: Loading main scene
-
-[Info   : Unity Log] 01/08/2023 13:11:12: Steam initialized, persona:SupaHotPiweu
-
-[Info   : Unity Log] 01/08/2023 13:11:12: PlayFab custom ID set to "Steam_76561198002157142"
-
-[Info   : Unity Log] 01/08/2023 13:11:12: Using default prefs
-
-[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/08/2023 13:11:12: Loading player profile smasha
-
-[Info   : Unity Log] 01/08/2023 13:11:12: isModded: True
-
-[Info   : Unity Log] 01/08/2023 13:11:12: Zonesystem Awake 44889
-
-[Info   : Unity Log] 01/08/2023 13:11:12: DungeonDB Awake 44889
-
-[Info   : Unity Log] 01/08/2023 13:11:12: Steam initialized, persona:SupaHotPiweu
-
-[Info   : Unity Log] 01/08/2023 13:11:12: Worldgenerator version setup:2
-
-[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'blacks7ar.SNEAKer ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 6545
-[Info   :Digitalroot] Trader's coins were loaded from world Szczecin_2422803644_BetterTrader.dat file with a value of 2000
-[Info   : Unity Log] Registered 'org.bepinex.plugins.cooking ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
-[Info   :Jotunn.Managers.PrefabManager] Adding 178 custom prefabs to the ZNetScene
-[Info   : Unity Log] [CustomSlotCreator] Created quiver slot for LeatherQuiver.
-[Info   : Unity Log] 01/08/2023 13:11:13: Audioman already exist, destroying self
-
-[Info   : Unity Log] 01/08/2023 13:11:13: Checking for installed DLCs
-
-[Info   : Unity Log] 01/08/2023 13:11:13: DLC:beta installed:False
-
-[Info   :Jotunn.Managers.ItemManager] Adding 107 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 90 custom recipes to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 1 custom item conversions
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   :Jotunn.Managers.PieceManager] Adding 29 custom pieces to the PieceTables
-[Info   :HoneyPlus.HoneyPlus] Changed Recipe: BoarJerky
-[Info   :HoneyPlus.HoneyPlus] Changed Recipe: WolfJerky
-[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
-[Info   : Unity Log] 01/08/2023 13:11:18: Zonesystem Start 44889
-
-[Info   : Unity Log] 01/08/2023 13:11:18: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-
-[Info   : Unity Log] 01/08/2023 13:11:18: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-
-[Info   : Unity Log] 01/08/2023 13:11:18: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-
-[Info   :Jotunn.Managers.ZoneManager] Injecting 16 custom vegetation
-[Info   : Unity Log] 01/08/2023 13:11:18: DungeonDB Start 44889
-
-[Info   : Unity Log] 01/08/2023 13:11:19: ZRpc timeout set to 30s 
-
-[Info   : Unity Log] 01/08/2023 13:11:19: Load world: Szczecin (Szczecin)
-
-[Info   : Unity Log] 01/08/2023 13:11:19: Loading 362476 zdos , my id 788169600 data version:29
-
-[Info   : Unity Log] 01/08/2023 13:11:19: Loaded 100000 dead zdos
-
-[Info   : Unity Log] 01/08/2023 13:11:19: Removed 0 OLD generated ZDOS
-
-[Info   : Unity Log] 01/08/2023 13:11:19: Loaded 10146 locations
-
-[Info   : Unity Log] 01/08/2023 13:11:20: Starting respawn
-
-[Info   : Unity Log] 01/08/2023 13:11:20: Ticket is System.Byte[] of length 369
-
-[Info   : Unity Log] 01/08/2023 13:11:20: Session auth respons callback
-
-[Info   : Unity Log] 01/08/2023 13:11:25: Unpacking compressed mapdata 18489
-
-[Info   : Unity Log] 01/08/2023 13:11:25: tip:$loadscreen_tip05
-
-[Info   : Unity Log] 01/08/2023 13:11:29: Force generaeting hmap (-576.0, 0.0, 1664.0)
-
-[Info   : Unity Log] 01/08/2023 13:11:33: Spawned after 8,019994
+[Info   : Unity Log] 01/09/2023 22:31:51: Failed to find item prefab BJORKSNAS
 
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$mod_epicloot_assets_leatherbelt
+[Info   : Unity Log] 01/09/2023 22:31:51: Failed to find item prefab BJORKSNAS
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$mod_epicloot_assets_silverring
+[Info   : Unity Log] 01/09/2023 22:31:52: Ticket is System.Byte[] of length 369
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$mod_epicloot_assets_goldrubyring
+[Info   : Unity Log] 01/09/2023 22:31:52: Session auth respons callback
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$item_trophy_skeleton
+[Info   : Unity Log] 01/09/2023 22:31:52: Starting music menu
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$item_trophy_greydwarf
+[Info   : Unity Log] 01/09/2023 22:31:52: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$item_trophy_deer
+[Info   : Unity Log] 01/09/2023 22:31:52: PlayFab logged in as "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$item_trophy_troll
+[Info   : Unity Log] 01/09/2023 22:31:52: PlayFab local entity ID is B66CB53BBA79AE23
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$item_trophy_surtling
+[Info   : Unity Log] 01/09/2023 22:31:53: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newrecipe:$item_trophy_hatchling
-
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newpiece:$mod_epicloot_assets_enchanter
-
-[Info   : Unity Log] 01/08/2023 13:11:33: Queue unlock msg:$msg_newpiece:$mod_epicloot_assets_augmenter
-
-[Info   : Unity Log] 01/08/2023 13:11:33: Minimap: Adding unique location (-2.2, 46.8, -6.4)
-
-[Info   : Unity Log] 01/08/2023 13:11:35: Starting music meadows
-
-[Info   : Unity Log] 01/08/2023 13:11:41: Setting selected recipe 0
-
-[Info   : Unity Log] 01/08/2023 13:11:42: UI Group status changed root = True
-
-[Info   : Unity Log] 01/08/2023 13:11:42: UI Group status changed Player = True
-
-[Info   : Unity Log] 01/08/2023 13:11:44: Setting selected recipe 0
-
-[Info   : Unity Log] 01/08/2023 13:11:44: UI Group status changed root = True
-
-[Info   : Unity Log] 01/08/2023 13:11:44: UI Group status changed Player = True
-
-[Info   : Unity Log] 01/08/2023 13:11:45: Setting selected recipe 0
-
-[Info   : Unity Log] 01/08/2023 13:11:45: UI Group status changed root = True
-
-[Info   : Unity Log] 01/08/2023 13:11:45: UI Group status changed Player = True
-
-[Info   : Unity Log] 01/08/2023 13:11:55: Setting selected recipe 0
-
-[Info   : Unity Log] 01/08/2023 13:11:55: UI Group status changed root = True
-
-[Info   : Unity Log] 01/08/2023 13:11:55: UI Group status changed Player = True
-
-[Info   : Unity Log] 01/08/2023 13:12:59: UI Group status changed MenuRoot = False
-
-[Info   :Digitalroot] Trader's coins were saved to world Szczecin_2422803644_BetterTrader.dat file with a value of 2000
-[Info   : Unity Log] 01/08/2023 13:12:59: Game - OnApplicationQuit
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Shuting down
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Uncompressed size 8391761
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Compressed size 18489
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Cloud Save: 55288 bytes. /characters/smasha.fch.new
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Steam writing file chunks 1 / 1, (55288 bytes)
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Steam Cloud Move: 53716 bytes. /characters/smasha.fch -> /characters/smasha.fch.old
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Steam writing file chunks 1 / 1, (53716 bytes)
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Steam Cloud Move: 55288 bytes. /characters/smasha.fch.new -> /characters/smasha.fch
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Steam writing file chunks 1 / 1, (55288 bytes)
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Considering autobackup. World time: 92,73999, short time: 7200, long time: 43200, backup count: 4
-
-[Info   : Unity Log] 01/08/2023 13:12:59: Skipping backup. World session not long enough.
-
-[Info   : Unity Log] 01/08/2023 13:12:59: ZNet Shutdown
-
-[Info   : Unity Log] 01/08/2023 13:13:00: clone 254
-
-[Info   : Unity Log] 01/08/2023 13:13:00: Sending disconnect msg
-
+[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 7329
 [Info   :Valharvest.Main] Valharvest: OnDestroy
 [Info   : Unity Log] Unpatching now
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
