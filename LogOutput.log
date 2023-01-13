@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 28 plugins to load
+[Info   :   BepInEx] 30 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.12.0]
 [Info   :   BepInEx] Loading [SNEAKer 1.0.3.0]
 [Info   :   SNEAKer] SNEAKer Loaded..
@@ -43,15 +43,16 @@
 [Info   :Valharvest.Main] Preparing the plants...
 [Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
 [Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
+[Info   :   BepInEx] Loading [WorldAdvancementProgression 0.0.18]
 [Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.2]
 [Info   :   BepInEx] Loading [RuneMagic 1.1.16]
-[Info   : Unity Log] 01/12/2023 21:24:35: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:48:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:35: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:48:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:36: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:48:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:36: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:48:47: Loaded localization CSV:localization_extra language:English
 
 [Info   : Unity Log] Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Better Archery 1.8.1]
@@ -83,6 +84,19 @@
 [Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyCookedSeeker
 [Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMushroomStew
 [Info   :   BepInEx] Loading [Cooking 1.1.10]
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.2]
+[Info   : Unity Log] 01/13/2023 17:48:50: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/13/2023 17:48:50: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/13/2023 17:48:50: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/13/2023 17:48:50: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/13/2023 17:48:51: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/13/2023 17:48:51: Loaded localization CSV:localization_extra language:English
+
 [Info   :   BepInEx] Loading [Valheim Plus 0.9.9.11]
 [Info   :Valheim Plus] Trying to load the configuration file
 [Info   : Unity Log] Loading config section AdvancedBuildingMode
@@ -609,60 +623,61 @@
 [Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
 [Info   :   BepInEx] Loading [MassFarming 1.5]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 01/12/2023 21:24:47: Starting to load scene:start
+[Info   : Unity Log] 01/13/2023 17:48:59: Starting to load scene:start
 
-[Info   : Unity Log] 01/12/2023 21:24:47: Using environment steamid 892970
+[Info   : Unity Log] 01/13/2023 17:48:59: Using environment steamid 892970
 
-[Info   : Unity Log] 01/12/2023 21:24:47: Using steam APPID:892970
+[Info   : Unity Log] 01/13/2023 17:48:59: Using steam APPID:892970
 
-[Info   : Unity Log] 01/12/2023 21:24:47: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 01/13/2023 17:48:59: Authentication:k_ESteamNetworkingAvailability_Attempting
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Steam initialized, persona:SupaHotPiweu
+[Info   : Unity Log] 01/13/2023 17:49:00: Steam initialized, persona:SupaHotPiweu
 
-[Info   : Unity Log] 01/12/2023 21:24:49: PlayFab custom ID set to "Steam_76561198002157142"
+[Info   : Unity Log] 01/13/2023 17:49:00: PlayFab custom ID set to "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Using default prefs
+[Info   : Unity Log] 01/13/2023 17:49:00: Using default prefs
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Valheim version:0.212.9@0.9.9.11
+[Info   : Unity Log] 01/13/2023 17:49:00: Valheim version:0.212.9@0.9.9.11
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Worldgenerator version setup:2
+[Info   : Unity Log] 01/13/2023 17:49:00: Worldgenerator version setup:2
 
+[Info   :WorldAdvancementProgression] Adding Terminal Commands for private key management.
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/12/2023 21:24:49: Render threading mode:MultiThreaded
+[Info   : Unity Log] 01/13/2023 17:49:00: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:00: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:49: Checking for installed DLCs
+[Info   : Unity Log] 01/13/2023 17:49:00: Checking for installed DLCs
 
-[Info   : Unity Log] 01/12/2023 21:24:49: DLC:beta installed:False
+[Info   : Unity Log] 01/13/2023 17:49:00: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 01/12/2023 21:24:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/13/2023 17:49:01: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/12/2023 21:24:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/13/2023 17:49:01: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Info   : Unity Log] ObjectDB_Awake_Patch ran
@@ -719,20 +734,28 @@
 [Info   :Valharvest.Main] Load Complete.
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 01/12/2023 21:24:51: Ticket is System.Byte[] of length 369
+[Info   : Unity Log] 01/13/2023 17:49:02: Session auth respons callback
 
-[Info   : Unity Log] 01/12/2023 21:24:51: Session auth respons callback
+[Info   : Unity Log] 01/13/2023 17:49:02: Starting music menu
 
-[Info   : Unity Log] 01/12/2023 21:24:51: Starting music menu
+[Info   : Unity Log] 01/13/2023 17:49:02: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/12/2023 21:24:51: UI Group status changed Menu = True
+[Info   : Unity Log] 01/13/2023 17:49:03: PlayFab logged in as "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/12/2023 21:24:52: PlayFab logged in as "Steam_76561198002157142"
+[Info   : Unity Log] 01/13/2023 17:49:03: PlayFab local entity ID is B66CB53BBA79AE23
 
-[Info   : Unity Log] 01/12/2023 21:24:52: PlayFab local entity ID is B66CB53BBA79AE23
+[Info   : Unity Log] 01/13/2023 17:49:04: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/12/2023 21:24:53: UI Group status changed Menu = True
-
+[Error  :Configuration Manager] Failed to draw setting Time until creatures in dungeons respawn in minutes (0 means disabled, 30 is one ingame day) - System.FormatException: Input string was not in a correct format.
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at System.Int32.Parse (System.String s) [0x00007] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at BepInEx.Configuration.TomlTypeConverter+<>c.<.cctor>b__14_15 (System.String str, System.Type type) [0x00000] in <2e96006724e44cef876346c4d9580850>:0 
+  at ConfigurationManager.ConfigSettingEntry+<>c__DisplayClass3_0.<.ctor>b__1 (System.String s) [0x00017] in <4863854615904af2bd73ac47934f004c>:0 
+  at ConfigurationManager.SettingFieldDrawer.DrawUnknownField (ConfigurationManager.SettingEntryBase setting, System.Int32 rightColumnWidth) [0x00061] in <4863854615904af2bd73ac47934f004c>:0 
+  at ConfigurationManager.SettingFieldDrawer.DrawFieldBasedOnValueType (ConfigurationManager.SettingEntryBase setting) [0x00029] in <4863854615904af2bd73ac47934f004c>:0 
+  at ConfigurationManager.SettingFieldDrawer.DrawSettingValue (ConfigurationManager.SettingEntryBase setting) [0x000ca] in <4863854615904af2bd73ac47934f004c>:0 
+  at ConfigurationManager.ConfigurationManager.DrawSingleSetting (ConfigurationManager.SettingEntryBase setting) [0x00012] in <4863854615904af2bd73ac47934f004c>:0 
 [Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 7488
 [Info   :Valharvest.Main] Valharvest: OnDestroy
 [Info   : Unity Log] Unpatching now
@@ -745,5 +768,5 @@ ABearCodes.Valheim.SimpleRecycling.UI.ContainerRecyclingButtonHolder.OnDestroy (
 Stack trace:
 ABearCodes.Valheim.SimpleRecycling.UI.StationRecyclingTabHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
 
-[Info   : Unity Log] 01/12/2023 21:25:09: Steam manager on destroy
+[Info   : Unity Log] 01/13/2023 17:54:41: Steam manager on destroy
 
