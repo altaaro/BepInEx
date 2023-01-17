@@ -44,13 +44,13 @@
 [Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
 [Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
 [Info   :   BepInEx] Loading [PotionsPlus 4.1.9]
-[Info   : Unity Log] 01/17/2023 17:14:25: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:06:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:25: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:06:54: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:25: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:06:54: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:25: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:06:54: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [WorldAdvancementProgression 0.0.18]
 [Info   :   BepInEx] Loading [Better Wisps 1.0.0]
@@ -60,7 +60,7 @@
 [Info   :   BepInEx] Loading [Better Archery 1.8.1]
 [Info   :   BepInEx] Loading [OdinShip 0.2.2]
 [Info   :   BepInEx] Loading [Better Trader Remake 2.2.7]
-[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 4738
+[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 2463
 [Info   :   BepInEx] Loading [BetterUI 2.4.1]
 [Info   :   BepInEx] Loading [Speedy Paths Mod 1.0.6]
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Initialized Server Authoritative Config Manager.
@@ -87,17 +87,17 @@
 [Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMushroomStew
 [Info   :   BepInEx] Loading [Cooking 1.1.10]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.2]
-[Info   : Unity Log] 01/17/2023 17:14:30: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:06:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:30: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:06:59: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:30: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:06:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:30: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:06:59: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:30: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:06:59: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:30: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:06:59: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Valheim Plus 0.9.9.11]
 [Info   :Valheim Plus] Trying to load the configuration file
@@ -617,61 +617,61 @@
 [Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
 [Info   :   BepInEx] Loading [MassFarming 1.5]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 01/17/2023 17:14:39: Starting to load scene:start
+[Info   : Unity Log] 01/17/2023 23:07:08: Starting to load scene:start
 
-[Info   : Unity Log] 01/17/2023 17:14:40: Using environment steamid 892970
+[Info   : Unity Log] 01/17/2023 23:07:08: Using environment steamid 892970
 
-[Info   : Unity Log] 01/17/2023 17:14:40: Using steam APPID:892970
+[Info   : Unity Log] 01/17/2023 23:07:08: Using steam APPID:892970
 
-[Info   : Unity Log] 01/17/2023 17:14:40: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 01/17/2023 23:07:08: Authentication:k_ESteamNetworkingAvailability_Attempting
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Steam initialized, persona:SupaHotPiweu
+[Info   : Unity Log] 01/17/2023 23:07:09: Steam initialized, persona:SupaHotPiweu
 
-[Info   : Unity Log] 01/17/2023 17:14:41: PlayFab custom ID set to "Steam_76561198002157142"
+[Info   : Unity Log] 01/17/2023 23:07:09: PlayFab custom ID set to "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Using default prefs
+[Info   : Unity Log] 01/17/2023 23:07:09: Using default prefs
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Valheim version:0.212.9@0.9.9.11
+[Info   : Unity Log] 01/17/2023 23:07:09: Valheim version:0.212.9@0.9.9.11
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Worldgenerator version setup:2
+[Info   : Unity Log] 01/17/2023 23:07:09: Worldgenerator version setup:2
 
 [Info   :WorldAdvancementProgression] Adding Terminal Commands for private key management.
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/17/2023 17:14:41: Render threading mode:MultiThreaded
+[Info   : Unity Log] 01/17/2023 23:07:09: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:09: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:10: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:10: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:41: Checking for installed DLCs
+[Info   : Unity Log] 01/17/2023 23:07:10: Checking for installed DLCs
 
-[Info   : Unity Log] 01/17/2023 17:14:41: DLC:beta installed:False
+[Info   : Unity Log] 01/17/2023 23:07:10: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 01/17/2023 17:14:42: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/17/2023 23:07:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/17/2023 17:14:42: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/17/2023 23:07:10: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Info   : Unity Log] ObjectDB_Awake_Patch ran
@@ -727,38 +727,32 @@
 [Info   :Valharvest.Scripts.BoneAppetitBalance] SeagullEgg Loaded.
 [Info   :Valharvest.Main] Load Complete.
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Info   : Unity Log] 01/17/2023 17:14:43: Ticket is System.Byte[] of length 369
+[Info   : Unity Log] 01/17/2023 23:07:12: Ticket is System.Byte[] of length 369
 
-[Info   : Unity Log] 01/17/2023 17:14:43: Session auth respons callback
+[Info   : Unity Log] 01/17/2023 23:07:12: Session auth respons callback
 
-[Info   : Unity Log] 01/17/2023 17:14:43: Starting music menu
+[Info   : Unity Log] 01/17/2023 23:07:12: Starting music menu
 
-[Info   : Unity Log] 01/17/2023 17:14:43: UI Group status changed Menu = True
+[Info   : Unity Log] 01/17/2023 23:07:12: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/17/2023 17:14:44: PlayFab logged in as "Steam_76561198002157142"
+[Info   : Unity Log] 01/17/2023 23:07:13: PlayFab logged in as "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/17/2023 17:14:44: PlayFab local entity ID is B66CB53BBA79AE23
+[Info   : Unity Log] 01/17/2023 23:07:13: PlayFab local entity ID is B66CB53BBA79AE23
 
-[Info   : Unity Log] 01/17/2023 17:14:45: UI Group status changed Menu = True
+[Info   : Unity Log] 01/17/2023 23:07:13: UI Group status changed Menu = True
 
-[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 4738
+[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 2463
 [Info   :Valharvest.Main] Valharvest: OnDestroy
 [Info   : Unity Log] Unpatching now
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ABearCodes.Valheim.SimpleRecycling.UI.ContainerRecyclingButtonHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ABearCodes.Valheim.SimpleRecycling.UI.StationRecyclingTabHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+
+[Info   : Unity Log] 01/17/2023 23:07:27: Steam manager on destroy
+
