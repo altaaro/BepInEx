@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 31 plugins to load
+[Info   :   BepInEx] 36 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.12.0]
 [Info   :   BepInEx] Loading [SNEAKer 1.0.3.0]
 [Info   :   SNEAKer] SNEAKer Loaded..
@@ -44,22 +44,24 @@
 [Info   :   BepInEx] Loading [SimpleRecycling 0.0.13]
 [Info   :   BepInEx] Loading [Use Equipment in Water 0.2.3]
 [Info   :   BepInEx] Loading [PotionsPlus 4.1.9]
-[Info   : Unity Log] 01/18/2023 19:06:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:06:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:10: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:06:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:10: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:06:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:10: Loaded localization CSV:localization_extra language:English
 
+[Info   :   BepInEx] Loading [Better Networking 2.0.2]
 [Info   :   BepInEx] Loading [Better Wisps 1.0.0]
 [Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.2]
+[Info   :   BepInEx] Loading [More Gates 1.0.10]
 [Info   :   BepInEx] Loading [RuneMagic 1.1.16]
 [Info   : Unity Log] Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Better Archery 1.8.1]
 [Info   :   BepInEx] Loading [OdinShip 0.2.2]
 [Info   :   BepInEx] Loading [Better Trader Remake 2.2.7]
-[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 2000
+[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 905
 [Info   :   BepInEx] Loading [BetterUI 2.4.1]
 [Info   :   BepInEx] Loading [Speedy Paths Mod 1.0.6]
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Initialized Server Authoritative Config Manager.
@@ -86,17 +88,17 @@
 [Info   :HoneyPlus.HoneyPlus] Loaded Item: HoneyMushroomStew
 [Info   :   BepInEx] Loading [Cooking 1.1.10]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.2]
-[Info   : Unity Log] 01/18/2023 19:07:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:17: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:17: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:17: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:17: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:00: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:17: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:00: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:17: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Valheim Plus 0.9.9.11]
 [Info   :Valheim Plus] Trying to load the configuration file
@@ -296,6 +298,8 @@
 [Info   :OdinArchitect.OdinArchitect] All the embedded resources was loaded
 [Info   :OdinArchitect.OdinArchitect] Loaded items and conversions
 [Info   :   BepInEx] Loading [OdinHorse 1.1.0]
+[Info   :   BepInEx] Loading [BetterLanterns 1.0.0]
+[Info   :   BepInEx] Loading [Advanced Portals 1.0.2]
 [Info   :   BepInEx] Loading [Epic Loot 0.9.7]
 [Info   : Epic Loot] Added ItemSet: EnchantingMats
 [Info   : Epic Loot] Added ItemSet: Tier0Mats
@@ -615,61 +619,62 @@
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.11]
 [Info   :   BepInEx] Loading [AutoRepair 5.4.1600]
 [Info   :   BepInEx] Loading [MassFarming 1.5]
+[Info   :   BepInEx] Loading [ConsistentChickenVariants 1.0.0]
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 01/18/2023 19:07:09: Starting to load scene:start
+[Info   : Unity Log] 01/22/2023 10:30:26: Starting to load scene:start
 
-[Info   : Unity Log] 01/18/2023 19:07:10: Using environment steamid 892970
+[Info   : Unity Log] 01/22/2023 10:30:26: Using environment steamid 892970
 
-[Info   : Unity Log] 01/18/2023 19:07:10: Using steam APPID:892970
+[Info   : Unity Log] 01/22/2023 10:30:26: Using steam APPID:892970
 
-[Info   : Unity Log] 01/18/2023 19:07:10: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 01/22/2023 10:30:26: Authentication:k_ESteamNetworkingAvailability_Attempting
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Steam initialized, persona:SupaHotPiweu
+[Info   : Unity Log] 01/22/2023 10:30:27: Steam initialized, persona:SupaHotPiweu
 
-[Info   : Unity Log] 01/18/2023 19:07:11: PlayFab custom ID set to "Steam_76561198002157142"
+[Info   : Unity Log] 01/22/2023 10:30:27: PlayFab custom ID set to "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Using default prefs
+[Info   : Unity Log] 01/22/2023 10:30:27: Using default prefs
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Valheim version:0.212.9@0.9.9.11
+[Info   : Unity Log] 01/22/2023 10:30:27: Valheim version:0.212.9@0.9.9.11
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Worldgenerator version setup:2
+[Info   : Unity Log] 01/22/2023 10:30:27: Worldgenerator version setup:2
 
 [Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/18/2023 19:07:11: Render threading mode:MultiThreaded
+[Info   : Unity Log] 01/22/2023 10:30:27: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:27: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:28: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:28: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:28: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:28: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:11: Checking for installed DLCs
+[Info   : Unity Log] 01/22/2023 10:30:28: Checking for installed DLCs
 
-[Info   : Unity Log] 01/18/2023 19:07:11: DLC:beta installed:False
+[Info   : Unity Log] 01/22/2023 10:30:28: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 01/18/2023 19:07:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 01/22/2023 10:30:28: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 01/18/2023 19:07:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 01/22/2023 10:30:28: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Info   : Unity Log] ObjectDB_Awake_Patch ran
@@ -726,352 +731,40 @@
 [Info   :Valharvest.Main] Load Complete.
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 01/18/2023 19:07:13: Session auth respons callback
+[Info   : Unity Log] 01/22/2023 10:30:30: Ticket is System.Byte[] of length 368
 
-[Info   : Unity Log] 01/18/2023 19:07:13: Ticket is System.Byte[] of length 369
+[Info   : Unity Log] 01/22/2023 10:30:30: Session auth respons callback
 
-[Info   : Unity Log] 01/18/2023 19:07:13: Starting music menu
+[Info   : Unity Log] 01/22/2023 10:30:30: Starting music menu
 
-[Info   : Unity Log] 01/18/2023 19:07:13: UI Group status changed Menu = True
+[Info   : Unity Log] 01/22/2023 10:30:30: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/18/2023 19:07:14: PlayFab logged in as "Steam_76561198002157142"
+[Info   : Unity Log] 01/22/2023 10:30:31: PlayFab logged in as "Steam_76561198002157142"
 
-[Info   : Unity Log] 01/18/2023 19:07:14: PlayFab local entity ID is B66CB53BBA79AE23
+[Info   : Unity Log] 01/22/2023 10:30:31: PlayFab local entity ID is B66CB53BBA79AE23
 
-[Info   : Unity Log] 01/18/2023 19:07:15: UI Group status changed Menu = True
+[Info   : Unity Log] 01/22/2023 10:30:31: UI Group status changed Menu = True
 
-[Info   : Unity Log] 01/18/2023 19:07:16: FOund selected Start game
-
-[Info   : Unity Log] 01/18/2023 19:07:16: show character selection
-
-[Info   : Unity Log] 01/18/2023 19:07:17: OnCharacterStart
-
-[Info   : Unity Log] 01/18/2023 19:07:18: PlayFab lobby matching search filter 'string_key10 eq '195.128.140.58:2456' and string_key2 eq 'True'': Got back zero lobbies
-
-[Info   : Unity Log] 01/18/2023 19:07:18: Failed to get lobby gameserver
-
-[Info   : Unity Log] 01/18/2023 19:07:18: Failed to get lobby gameserver
-
-[Info   : Unity Log] 01/18/2023 19:07:23: Loading main scene
-
-[Info   : Unity Log] 01/18/2023 19:07:23: Steam initialized, persona:SupaHotPiweu
-
-[Info   : Unity Log] 01/18/2023 19:07:23: PlayFab custom ID set to "Steam_76561198002157142"
-
-[Info   : Unity Log] 01/18/2023 19:07:23: Using default prefs
-
-[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/18/2023 19:07:23: Loading player profile smasha
-
-[Info   : Unity Log] 01/18/2023 19:07:23: isModded: True
-
-[Info   : Unity Log] 01/18/2023 19:07:23: Zonesystem Awake 542
-
-[Info   : Unity Log] 01/18/2023 19:07:23: DungeonDB Awake 542
-
-[Info   : Unity Log] 01/18/2023 19:07:23: Steam initialized, persona:SupaHotPiweu
-
-[Info   : Unity Log] 01/18/2023 19:07:23: Worldgenerator version setup:2
-
-[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'blacks7ar.SNEAKer ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'PotionsPlus ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.odinplus.potionsplus ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.odinplus.potionsplus PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 2000
-[Info   :Digitalroot] Trader's coins were loaded from world Szczecin_2422803644_BetterTrader.dat file with a value of 2463
-[Info   : Unity Log] Registered 'org.bepinex.plugins.cooking ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'OdinHorse ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] ZNetScene_Awake_Patch ran
-[Info   :Jotunn.Managers.PrefabManager] Adding 383 custom prefabs to the ZNetScene
-[Info   : Unity Log] [CustomSlotCreator] Created quiver slot for LeatherQuiver.
-[Info   : Unity Log] 01/18/2023 19:07:24: Audioman already exist, destroying self
-
-[Info   : Unity Log] 01/18/2023 19:07:24: Checking for installed DLCs
-
-[Info   : Unity Log] 01/18/2023 19:07:24: DLC:beta installed:False
-
-[Info   :Jotunn.Managers.ItemManager] Adding 109 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 92 custom recipes to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 13 custom item conversions
-[Info   : Unity Log] ObjectDB_Awake_Patch ran
-[Info   : Unity Log] [RecipeHandler] Added recipe: Recipe_RuneFocus
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   :Jotunn.Managers.PieceManager] Adding 231 custom pieces to the PieceTables
-[Info   :HoneyPlus.HoneyPlus] Changed Recipe: BoarJerky
-[Info   :HoneyPlus.HoneyPlus] Changed Recipe: WolfJerky
-[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 01/18/2023 19:07:29: Zonesystem Start 542
-
-[Info   : Unity Log] 01/18/2023 19:07:30: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-
-[Info   : Unity Log] 01/18/2023 19:07:30: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-
-[Info   : Unity Log] 01/18/2023 19:07:30: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-
-[Info   :Jotunn.Managers.ZoneManager] Injecting 16 custom vegetation
-[Info   : Unity Log] ZoneSystem_Start_Patch ran
-[Info   : Unity Log] Skipping BossStone_Bonemass
-[Info   : Unity Log] Skipping BossStone_DragonQueen
-[Info   : Unity Log] Skipping BossStone_Yagluth
-[Info   : Unity Log] Skipping BossStone_TheQueen
-[Info   : Unity Log] Skipping BossStone_TheElder
-[Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] Skipping BossStone_Bonemass
-[Info   : Unity Log] Skipping BossStone_DragonQueen
-[Info   : Unity Log] Skipping BossStone_Yagluth
-[Info   : Unity Log] Skipping BossStone_TheElder
-[Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] Cached water surface vertex order
-[Info   : Unity Log] 01/18/2023 19:07:30: DungeonDB Start 542
-
-[Info   : Unity Log] 01/18/2023 19:07:30: ZRpc timeout set to 30s 
-
-[Info   : Unity Log] 01/18/2023 19:07:30: Load world: Szczecin (Szczecin)
-
-[Info   : Unity Log] 01/18/2023 19:07:30: Loading 967286 zdos , my id 1920895792 data version:29
-
-[Info   : Unity Log] 01/18/2023 19:07:32: Loaded 100000 dead zdos
-
-[Info   : Unity Log] 01/18/2023 19:07:32: Removed 0 OLD generated ZDOS
-
-[Info   : Unity Log] 01/18/2023 19:07:32: Loaded 10137 locations
-
-[Info   : Unity Log] 01/18/2023 19:07:32: Starting respawn
-
-[Info   : Unity Log] 01/18/2023 19:07:32: Session auth respons callback
-
-[Info   : Unity Log] 01/18/2023 19:07:37: Unpacking compressed mapdata 33058
-
-[Info   : Unity Log] 01/18/2023 19:07:38: tip:$loadscreen_tip11
-
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Warning: Unity Log] Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[Info   : Epic Loot] Fixing up effect on $mod_epicloot_epic_crow $mod_epicloot_epic_spur: effect=Glowing
-[Info   : Unity Log] 01/18/2023 19:07:43: Force generaeting hmap (-576.0, 0.0, 1664.0)
-
-[Info   : Unity Log] 01/18/2023 19:07:43: Force generaeting hmap (-320.0, 0.0, 1664.0)
-
-[Info   : Unity Log] 01/18/2023 19:07:43: Force generaeting hmap (-576.0, 0.0, 1856.0)
-
-[Info   : Unity Log] 01/18/2023 19:07:43: Setting saddle:False
-
-[Info   : Unity Log] 01/18/2023 19:07:46: Spawned after 8,019994
-
-[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 01/18/2023 19:07:46: Minimap: Adding unique location (-2.2, 46.8, -6.4)
-
-[Info   : Unity Log] 01/18/2023 19:07:46: Minimap: Adding unique location (-1269.8, 59.7, -2412.9)
-
-[Info   : Unity Log] 01/18/2023 19:07:48: Starting music home
-
-[Info   : Unity Log] 01/18/2023 19:07:48: Resumed music home at 0
-
-[Info   : Unity Log] 01/18/2023 19:07:49: Setting selected recipe 0
-
-[Info   : Unity Log] 01/18/2023 19:07:50: UI Group status changed root = True
-
-[Info   : Unity Log] 01/18/2023 19:07:50: UI Group status changed Player = True
-
-[Info   : Unity Log] 01/18/2023 19:08:39: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 01/18/2023 19:08:39: Shuting down
-
-[Info   : Unity Log] 01/18/2023 19:08:39: Uncompressed size 8397807
-
-[Info   : Unity Log] 01/18/2023 19:08:39: Compressed size 33058
-
-[Info   : Unity Log] 01/18/2023 19:08:39: Cloud Save: 131897 bytes. /characters/smasha.fch.new
-
-[Info   : Unity Log] 01/18/2023 19:08:39: Steam writing file chunks 1 / 1, (131897 bytes)
-
-[Info   : Unity Log] 01/18/2023 19:08:39: Steam Cloud Move: 131897 bytes. /characters/smasha.fch -> /characters/smasha.fch.old
-
-[Info   : Unity Log] 01/18/2023 19:08:40: Steam writing file chunks 1 / 1, (131897 bytes)
-
-[Info   : Unity Log] 01/18/2023 19:08:40: Steam Cloud Move: 131897 bytes. /characters/smasha.fch.new -> /characters/smasha.fch
-
-[Info   : Unity Log] 01/18/2023 19:08:40: Steam writing file chunks 1 / 1, (131897 bytes)
-
-[Info   : Unity Log] 01/18/2023 19:08:40: Considering autobackup. World time: 59,54, short time: 7200, long time: 43200, backup count: 4
-
-[Info   : Unity Log] 01/18/2023 19:08:40: Skipping backup. World session not long enough.
-
-[Info   : Unity Log] 01/18/2023 19:08:40: ZNet Shutdown
-
-[Info   : Unity Log] 01/18/2023 19:08:40: clone 655
-
-[Info   : Unity Log] 01/18/2023 19:08:41: Sending disconnect msg
-
-[Info   : Unity Log] 01/18/2023 19:08:41: FOund selected Button_yes
-
-[Info   : Unity Log] 01/18/2023 19:08:42: ZNet OnDestroy
-
-[Info   : Unity Log] 01/18/2023 19:08:42: Net scene destroyed
-
-[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 01/18/2023 19:08:43: Steam initialized, persona:SupaHotPiweu
-
-[Info   : Unity Log] 01/18/2023 19:08:43: PlayFab custom ID set to "Steam_76561198002157142"
-
-[Info   : Unity Log] 01/18/2023 19:08:43: Using default prefs
-
-[Info   : Unity Log] 01/18/2023 19:08:43: Valheim version:0.212.9@0.9.9.11
-
-[Info   : Unity Log] 01/18/2023 19:08:43: Worldgenerator version setup:2
-
-[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
-[Info   : Unity Log] 01/18/2023 19:08:43: Render threading mode:MultiThreaded
-
-[Info   : Unity Log] 01/18/2023 19:08:43: Audioman already exist, destroying self
-
-[Info   : Unity Log] 01/18/2023 19:08:43: Checking for installed DLCs
-
-[Info   : Unity Log] 01/18/2023 19:08:43: DLC:beta installed:False
-
-[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 01/18/2023 19:08:43: Loaded localization CSV:localization language:English
-
-[Info   : Unity Log] 01/18/2023 19:08:43: Loaded localization CSV:localization_extra language:English
-
-[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
-[Info   : Unity Log] ObjectDB_Awake_Patch ran
-[Info   :Jotunn.Managers.ItemManager] Adding 109 custom items to the ObjectDB
-[Info   : Unity Log] ObjectDB_CopyOtherDB_Patch ran
-[Info   : Unity Log] [RecipeHandler] Added recipe: Recipe_RuneFocus
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   :Valharvest.Scripts.BoneAppetitBalance] SeagullEgg Loaded.
-[Info   :Valharvest.Main] Load Complete.
-[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 01/18/2023 19:08:44: Ticket is System.Byte[] of length 369
-
-[Info   : Unity Log] 01/18/2023 19:08:44: Session auth respons callback
-
-[Info   : Unity Log] 01/18/2023 19:08:44: Starting music menu
-
-[Info   : Unity Log] 01/18/2023 19:08:44: UI Group status changed Menu = True
-
-[Info   : Unity Log] 01/18/2023 19:08:45: UI Group status changed Menu = True
-
-[Info   : Unity Log] 01/18/2023 19:08:46: Stopped music home at 2558975
-
-[Info   :Digitalroot] Trader's coins were saved to world Szczecin_2422803644_BetterTrader.dat file with a value of 2463
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Error  : Unity Log] GUI Error: You are pushing more GUIClips than you are popping. Make sure they are balanced.
+[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 905
 [Info   :Valharvest.Main] Valharvest: OnDestroy
 [Info   : Unity Log] Unpatching now
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ABearCodes.Valheim.SimpleRecycling.UI.ContainerRecyclingButtonHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ABearCodes.Valheim.SimpleRecycling.UI.StationRecyclingTabHolder.OnDestroy () (at <c6e465a4c1d9455c84ef58de8b238a7a>:0)
+
+[Info   : Unity Log] 01/22/2023 10:36:35: Steam manager on destroy
+
